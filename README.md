@@ -3,13 +3,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I enjoy exploring new technologies and developing software solutions, process automation, and reports.\
-🎓 &nbsp;I am currently studying Software Development at ITM University in Medellin.\
-🌱 &nbsp;I am on the path to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I dedicate myself to carrying out ETL projects, creating Bots with the Telegram API, and PowerBi Dashboards.\
-💬 &nbsp;Feel free to contact me to inquire about projects and automation.\
-✉️ &nbsp;You can email me at Dainerandres40@gmail.com! I will respond promptly.\
-📄 &nbsp;Take a look at my resume for more details about me. I'm open to feedback and suggestions!
+💡&nbsp;I enjoy exploring new technologies and developing software solutions, process automation, and reports.\
+🎓&nbsp;I am currently studying Software Development at ITM University in Medellin.\
+🌱&nbsp;I am on the path to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️&nbsp;In my free time, I dedicate myself to carrying out ETL projects, creating Bots with the Telegram API, and PowerBi Dashboards.\
+💬&nbsp;Feel free to contact me to inquire about projects and automation.\
+✉️&nbsp;You can email me at Dainerandres40@gmail.com! I will respond promptly.\
+📄&nbsp;Take a look at my resume for more details about me. I'm open to feedback and suggestions!
 
 </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
