@@ -15,6 +15,12 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 
+<div style="display: flex; gap: 10px;">
+    <div style="flex: 1; text-align: center;">
+        <img src="Dashboard_Teleperformance.PNG" alt="Report 1" style="width: 500px; max-width: 200px;">
+    </div>
+</div>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -37,7 +43,6 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 
 
-
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
   </div>
@@ -52,6 +57,4 @@
   <img align="center" alt="Dainer Duran | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
-
-
 
