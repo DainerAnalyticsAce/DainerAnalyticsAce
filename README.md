@@ -17,7 +17,7 @@
 
 <div style="display: flex; gap: 10px;">
     <div style="flex: 1; text-align: center;">
-        <img src="Dashboard_Teleperformance.PNG" alt="Report 1" style="width: 500px; max-width: 200px;">
+        <img src="Dashboard_Teleperformance.PNG" alt="Report 1" style="width: 400px; max-width: 200px;">
     </div>
 </div>
 
