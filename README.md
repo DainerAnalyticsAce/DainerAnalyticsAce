@@ -12,7 +12,7 @@
 📄&nbsp;Take a look at my resume for more details about me. I'm open to feedback and suggestions!
 
 </p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="320" />
 </p>
 
 <div style="display: flex; gap: 10px;">
