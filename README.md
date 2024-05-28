@@ -42,7 +42,6 @@
 ![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-05122A?style=flat&logo=pythonanywhere)&nbsp;
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 
-
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
   </div>
@@ -57,4 +56,4 @@
   <img align="center" alt="Dainer Duran | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=260261&height=120&section=footer"/>
